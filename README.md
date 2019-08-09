@@ -18,8 +18,16 @@ npm install vue-slider-tabs
 ```
 import with npm or window
 ```js
+// npm import
 import swipperTabs from './swipperTabs.vue'
+// window import
 <scirpt src="dist/vue-slider-tabs.js"></script>
+// global use
+Vue.use(swipperTabs)
+  // component use
+components: {
+  swipperTabs
+}
 ```
 usage
 ```js
