@@ -15,6 +15,10 @@
     "vue-load-tabs",
     "vue-slider-tabs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoliqiang/vue-slider-tabs"
+  },
   "author": "luoliqiang",
   "dependencies": {
     "vue": "^2.6.10",
