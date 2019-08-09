@@ -3,7 +3,9 @@
 ## Intro
 <div>a loading data tabs plugin for Vue.js, to help you to use tabs to load data and infinite scroll.
 it can cache the tab data and remember the scroll height so that you can avoid repeatedly load your data.</div>
+
 ![GitHub](demo.png)
+
 ## Features
 * mobile friendly
 * each tab infinite scroll supported
